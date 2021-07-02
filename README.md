@@ -4,7 +4,7 @@
 
 This is an LSTM (long short-term memory) based classification model that takes continuous, multi-channel EEG signal for the prediction of serizures in patients with epilepsy. The training data used was collected from 22 patients from the Boston Children's Hospital using the international 10-20 system, and the training labels were annotated by medical professionals (https://physionet.org/content/chbmit/1.0.0/).
 
-![Image of sample seizure](https://github.com/Calebium/seizure_prediction/tree/main/Images/sample_seizure.png)
+![Image of EEG recording with an annotated seizure](https://github.com/Calebium/seizure_prediction/tree/main/Images/sample_seizure.png)
 
 ## Code description
 
